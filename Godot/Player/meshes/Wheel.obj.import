@@ -1,0 +1,18 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/Wheel.obj-ac313f1d40c9363dfc3b70186a575a96.mesh"
+
+[deps]
+
+files=[ "res://.import/Wheel.obj-ac313f1d40c9363dfc3b70186a575a96.mesh" ]
+
+source_file="res://Player/meshes/Wheel.obj"
+dest_files=[ "res://.import/Wheel.obj-ac313f1d40c9363dfc3b70186a575a96.mesh", "res://.import/Wheel.obj-ac313f1d40c9363dfc3b70186a575a96.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+optimize_mesh=true
